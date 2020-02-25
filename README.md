@@ -1,6 +1,6 @@
 # newflix-landing-page
 
-In this project, I've created a static landing page for a movie streaming website, inspired by [Netflix](https://www.netflix.com/)
+In this project, I've created a static landing page for a movie streaming website, inspired by [Netflix](https://www.netflix.com/).
 <br />
 <br />
 Click [here](https://a1kill.github.io/newflix-landing-page/) for live demo.
